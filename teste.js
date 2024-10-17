@@ -1,13 +1,5 @@
-//let heroi = ('Digite o nome do herói: ');
-//let exp = ('Digite seu nível de experiencia: ');
-
 let heroi = ("diego");
 let exp = ("9000");
-
-//while (heroi === '' || exp === '') {
-    //heroi = prompt('Digite o nome do herói: ');
-    //exp = prompt('Digite seu nível de experiencia: ');
-//}
 
 exp = parseInt(exp);
 let nivel = "";
